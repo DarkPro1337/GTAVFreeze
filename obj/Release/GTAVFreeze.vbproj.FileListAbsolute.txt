@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\GTAVFreeze\bin\Release\GTAVFreeze.exe
+D:\Visual Studio Projects\GTAVFreeze\bin\Release\GTAVFreeze.pdb
+D:\Visual Studio Projects\GTAVFreeze\bin\Release\GTAVFreeze.xml
+D:\Visual Studio Projects\GTAVFreeze\obj\Release\GTAVFreeze.frm_main.resources
+D:\Visual Studio Projects\GTAVFreeze\obj\Release\GTAVFreeze.Resources.resources
+D:\Visual Studio Projects\GTAVFreeze\obj\Release\GTAVFreeze.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\GTAVFreeze\obj\Release\GTAVFreeze.vbproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\GTAVFreeze\obj\Release\GTAVFreeze.exe
+D:\Visual Studio Projects\GTAVFreeze\obj\Release\GTAVFreeze.xml
+D:\Visual Studio Projects\GTAVFreeze\obj\Release\GTAVFreeze.pdb
+D:\Visual Studio Projects\GTAVFreeze\obj\Release\GTAVFreeze.vbprojAssemblyReference.cache
